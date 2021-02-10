@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-theme-linulas",
   "version": "0.0.0",
-  "description": "Enter a description here",
+  "description": "A theme for testing",
   "main": "theme.less",
   "keywords": [
 
