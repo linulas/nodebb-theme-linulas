@@ -2,5 +2,6 @@
     "id": "nodebb-theme-linulas",
     "name": "Linulas NodeBB Theme",
     "description": "A theme for testing and learning NodeBB",
-    "url": "https://github.com/linulas/nodebb-theme-linulas"
+    "url": "https://github.com/linulas/nodebb-theme-linulas",
+    "screenshot": "screenshot.jpg"
 }
